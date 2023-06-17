@@ -1,0 +1,6 @@
+2023/06/17-21:49:41.320 79a Creating DB /home/efliao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb since it was missing.
+2023/06/17-21:49:41.323 79a Reusing MANIFEST /home/efliao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/17-21:50:22.398 79a Level-0 table #5: started
+2023/06/17-21:50:22.401 79a Level-0 table #5: 1275 bytes OK
+2023/06/17-21:50:22.404 79a Delete type=0 #3
+2023/06/17-21:50:22.404 79a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

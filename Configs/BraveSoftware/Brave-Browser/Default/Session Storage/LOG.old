@@ -1,0 +1,32 @@
+2023/06/16-13:19:54.945 3 Creating DB /home/efliao/.config/BraveSoftware/Brave-Browser/Default/Session Storage since it was missing.
+2023/06/16-13:19:54.951 3 Reusing MANIFEST /home/efliao/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2023/06/16-16:53:39.629 4 Level-0 table #5: started
+2023/06/16-16:53:39.681 4 Level-0 table #5: 19282 bytes OK
+2023/06/16-16:53:39.687 4 Delete type=0 #3
+2023/06/16-18:13:04.597 4 Level-0 table #7: started
+2023/06/16-18:13:04.610 4 Level-0 table #7: 19616 bytes OK
+2023/06/16-18:13:04.615 4 Delete type=0 #4
+2023/06/16-20:39:28.525 4 Level-0 table #9: started
+2023/06/16-20:39:28.530 4 Level-0 table #9: 20287 bytes OK
+2023/06/16-20:39:28.535 4 Delete type=0 #6
+2023/06/16-21:31:20.099 4 Level-0 table #11: started
+2023/06/16-21:31:20.110 4 Level-0 table #11: 19986 bytes OK
+2023/06/16-21:31:20.113 4 Delete type=0 #8
+2023/06/16-21:52:10.230 4 Level-0 table #13: started
+2023/06/16-21:52:10.240 4 Level-0 table #13: 19718 bytes OK
+2023/06/16-21:52:10.242 4 Delete type=0 #10
+2023/06/16-22:59:06.584 4 Level-0 table #15: started
+2023/06/16-22:59:06.592 4 Level-0 table #15: 16407 bytes OK
+2023/06/16-22:59:06.601 4 Delete type=0 #12
+2023/06/16-22:59:06.603 4 Compacting 4@0 + 1@1 files
+2023/06/16-22:59:06.616 4 Generated table #16@0: 969 keys, 34139 bytes
+2023/06/16-22:59:06.616 4 Compacted 4@0 + 1@1 files => 34139 bytes
+2023/06/16-22:59:06.619 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/16-22:59:06.621 4 Delete type=2 #7
+2023/06/16-22:59:06.622 4 Delete type=2 #9
+2023/06/16-22:59:06.622 4 Delete type=2 #11
+2023/06/16-22:59:06.622 4 Delete type=2 #13
+2023/06/16-22:59:06.623 4 Delete type=2 #15
+2023/06/17-00:30:00.653 4 Level-0 table #18: started
+2023/06/17-00:30:00.704 4 Level-0 table #18: 19439 bytes OK
+2023/06/17-00:30:00.707 4 Delete type=0 #14

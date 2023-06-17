@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Nord",
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "'Monaco_Linux', 'Droid Sans Mono', 'monospace', monospace",
+    "editor.fontSize": 16,
+    "editor.formatOnSave": true,
+    "terminal.integrated.enableMultiLinePasteWarning": false
+}

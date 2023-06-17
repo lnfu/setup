@@ -1,0 +1,7 @@
+[Global] Creating projects: [{"folder":"/home/efliao/Desktop/Nextjs","configPath":"/home/efliao/Desktop/Nextjs/todolist/tailwind.config.js","isUserConfigured":false,"documentSelector":[{"pattern":"/home/efliao/Desktop/Nextjs/todolist/tailwind.config.js","priority":0},{"pattern":"/home/efliao/Desktop/Nextjs/todolist/src/pages/**/*.{js,ts,jsx,tsx,mdx}","priority":1},{"pattern":"/home/efliao/Desktop/Nextjs/todolist/src/components/**/*.{js,ts,jsx,tsx,mdx}","priority":1},{"pattern":"/home/efliao/Desktop/Nextjs/todolist/src/app/**/*.{js,ts,jsx,tsx,mdx}","priority":1},{"pattern":"/home/efliao/Desktop/Nextjs/todolist/**","priority":3},{"pattern":"/home/efliao/Desktop/Nextjs/**","priority":5}]}]
+[Global] Adding watch patterns: /home/efliao/Desktop/Nextjs/todolist/tailwind.config.js, /home/efliao/Desktop/Nextjs/todolist, /home/efliao/Desktop/Nextjs
+[todolist/tailwind.config.js] Initializing...
+[todolist/tailwind.config.js] Loaded Tailwind CSS config file: /home/efliao/Desktop/Nextjs/todolist/tailwind.config.js
+[todolist/tailwind.config.js] Loaded postcss v8.4.24: /home/efliao/Desktop/Nextjs/todolist/node_modules/postcss
+[todolist/tailwind.config.js] Loaded tailwindcss v3.3.2: /home/efliao/Desktop/Nextjs/todolist/node_modules/tailwindcss
+[todolist/tailwind.config.js] Building...

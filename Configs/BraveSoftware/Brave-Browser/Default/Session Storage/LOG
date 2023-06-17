@@ -1,0 +1,27 @@
+2023/06/17-10:00:15.906 3 Reusing MANIFEST /home/efliao/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2023/06/17-10:00:15.909 3 Recovering log #17
+2023/06/17-10:00:15.910 3 Reusing old log /home/efliao/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000017.log 
+2023/06/17-10:06:47.808 4 Level-0 table #21: started
+2023/06/17-10:06:47.819 4 Level-0 table #21: 28838 bytes OK
+2023/06/17-10:06:47.822 4 Delete type=0 #17
+2023/06/17-11:11:49.183 4 Level-0 table #23: started
+2023/06/17-11:11:49.198 4 Level-0 table #23: 20360 bytes OK
+2023/06/17-11:11:49.205 4 Delete type=0 #20
+2023/06/17-18:36:24.675 4 Level-0 table #25: started
+2023/06/17-18:36:24.688 4 Level-0 table #25: 20331 bytes OK
+2023/06/17-18:36:24.694 4 Delete type=0 #22
+2023/06/17-18:36:24.695 4 Compacting 4@0 + 1@1 files
+2023/06/17-18:36:24.706 4 Generated table #26@0: 1635 keys, 59152 bytes
+2023/06/17-18:36:24.706 4 Compacted 4@0 + 1@1 files => 59152 bytes
+2023/06/17-18:36:24.708 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/17-18:36:24.709 4 Delete type=2 #16
+2023/06/17-18:36:24.709 4 Delete type=2 #18
+2023/06/17-18:36:24.709 4 Delete type=2 #21
+2023/06/17-18:36:24.709 4 Delete type=2 #23
+2023/06/17-18:36:24.709 4 Delete type=2 #25
+2023/06/17-20:23:10.791 4 Level-0 table #28: started
+2023/06/17-20:23:10.795 4 Level-0 table #28: 21047 bytes OK
+2023/06/17-20:23:10.799 4 Delete type=0 #24
+2023/06/17-22:51:28.363 4 Level-0 table #30: started
+2023/06/17-22:51:28.377 4 Level-0 table #30: 18583 bytes OK
+2023/06/17-22:51:28.382 4 Delete type=0 #27

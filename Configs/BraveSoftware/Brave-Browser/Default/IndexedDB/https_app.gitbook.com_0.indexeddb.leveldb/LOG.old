@@ -1,0 +1,7 @@
+2023/06/18-00:58:52.344 79a Reusing MANIFEST /home/efliao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.gitbook.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/18-00:58:52.344 79a Recovering log #11
+2023/06/18-00:58:52.344 79a Reusing old log /home/efliao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.gitbook.com_0.indexeddb.leveldb/000011.log 
+2023/06/18-00:58:52.378 7a7 Level-0 table #16: started
+2023/06/18-00:58:52.380 7a7 Level-0 table #16: 26188 bytes OK
+2023/06/18-00:58:52.382 7a7 Delete type=0 #11
+2023/06/18-00:58:52.382 7a7 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)

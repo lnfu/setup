@@ -1,6 +1,3 @@
-2023/06/16-22:07:26.537 c85 Creating DB /home/efliao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb since it was missing.
-2023/06/16-22:07:26.540 c85 Reusing MANIFEST /home/efliao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/06/16-22:09:11.191 c85 Level-0 table #5: started
-2023/06/16-22:09:11.194 c85 Level-0 table #5: 4504 bytes OK
-2023/06/16-22:09:11.196 c85 Delete type=0 #3
-2023/06/16-22:09:11.197 c85 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/06/18-00:57:55.722 79a Reusing MANIFEST /home/efliao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/18-00:57:55.722 79a Recovering log #4
+2023/06/18-00:57:55.722 79a Reusing old log /home/efliao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000004.log 

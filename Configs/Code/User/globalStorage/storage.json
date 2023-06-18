@@ -11,7 +11,11 @@
             "file:///home/efliao/Desktop/CompetitiveProgramming": "__default__profile__"
         },
         "emptyWindows": {
-            "1687014769013": "__default__profile__"
+            "1687014769013": "__default__profile__",
+            "1687017590118": "__default__profile__",
+            "1687018102670": "__default__profile__",
+            "1687018201092": "__default__profile__",
+            "1687018215420": "__default__profile__"
         }
     },
     "profileAssociationsMigration": true,
@@ -21,7 +25,7 @@
         "folders": [],
         "emptyWindows": [
             {
-                "backupFolder": "1687014769013"
+                "backupFolder": "1687018215420"
             }
         ]
     },
@@ -1697,12 +1701,12 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/efliao/.config/Code/Backups/1687014769013",
+            "backupPath": "/home/efliao/.config/Code/Backups/1687018215420",
             "uiState": {
                 "mode": 1,
-                "x": 3375,
+                "x": 3215,
                 "y": 47,
-                "width": 450,
+                "width": 610,
                 "height": 1018
             }
         },

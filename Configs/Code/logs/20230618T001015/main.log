@@ -1,0 +1,3 @@
+2023-06-18 00:10:15.304 [info] update#setState idle
+2023-06-18 00:10:22.822 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-18 00:10:29.094 [info] Extension host with pid 26710 exited with code: 0, signal: unknown.

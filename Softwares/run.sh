@@ -9,6 +9,10 @@ sudo rpm --import https://brave-browser-rpm-release.s3.brave.com/brave-core.asc
 # Docker
 sudo dnf config-manager --add-repo https://download.docker.com/linux/fedora/docker-ce.repo
 
+# TablePlus
+sudo rpm -v --import https://yum.tableplus.com/apt.tableplus.com.gpg.key
+sudo dnf config-manager --add-repo https://yum.tableplus.com/rpm/x86_64/tableplus.repo
+
 dnf check-update
 sudo dnf -y install $(cat list)
 

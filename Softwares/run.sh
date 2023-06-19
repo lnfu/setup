@@ -13,6 +13,12 @@ sudo dnf config-manager --add-repo https://download.docker.com/linux/fedora/dock
 sudo rpm -v --import https://yum.tableplus.com/apt.tableplus.com.gpg.key
 sudo dnf config-manager --add-repo https://yum.tableplus.com/rpm/x86_64/tableplus.repo
 
+# install all softwares
 dnf check-update
 sudo dnf -y install $(cat list)
 
+# Golang
+# mkdir -p $HOME/go
+# echo 'export GOPATH=$HOME/go' >> $HOME/.bashrc
+# source $HOME/.bashrc
+# go env GOPATH

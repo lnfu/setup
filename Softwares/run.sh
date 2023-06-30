@@ -22,3 +22,4 @@ sudo dnf -y install $(cat list)
 # echo 'export GOPATH=$HOME/go' >> $HOME/.bashrc
 # source $HOME/.bashrc
 # go env GOPATH
+

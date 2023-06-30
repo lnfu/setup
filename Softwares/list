@@ -24,5 +24,8 @@ docker-compose-plugin
 tableplus
 golang
 torbrowser-launcher
-bookworm
+foliate
 hugo
+flameshot
+zstd
+httpie

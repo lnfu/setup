@@ -2,6 +2,10 @@ gcc
 gcc-c++
 make
 kernel-devel
+kernel-headers
+time
+perl
+dkms
 vim
 python3
 fcitx5

@@ -13,9 +13,21 @@ sudo dnf config-manager --add-repo https://download.docker.com/linux/fedora/dock
 sudo rpm -v --import https://yum.tableplus.com/apt.tableplus.com.gpg.key
 sudo dnf config-manager --add-repo https://yum.tableplus.com/rpm/x86_64/tableplus.repo
 
+# AnyDesk
+sudo cat > /etc/yum.repos.d/AnyDesk-Fedora.repo << "EOF"
+[anydesk]
+name=AnyDesk Fedora - stable
+baseurl=http://rpm.anydesk.com/centos/$basearch/
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://keys.anydesk.com/repos/RPM-GPG-KEY
+EOF
+
+
 # install all softwares
+dnf makecache
 dnf check-update
-sudo dnf -y install $(cat list)
+sudo dnf -y install $(cat list) --skip-broken
 
 # Golang
 # mkdir -p $HOME/go

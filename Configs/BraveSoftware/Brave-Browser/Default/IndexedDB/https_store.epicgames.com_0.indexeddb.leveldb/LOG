@@ -1,6 +1,0 @@
-2023/06/16-20:06:39.361 c84 Creating DB /home/efliao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb since it was missing.
-2023/06/16-20:06:39.371 c84 Reusing MANIFEST /home/efliao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/06/16-20:06:52.031 c85 Level-0 table #5: started
-2023/06/16-20:06:52.034 c85 Level-0 table #5: 3150 bytes OK
-2023/06/16-20:06:52.039 c85 Delete type=0 #3
-2023/06/16-20:06:52.039 c85 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
